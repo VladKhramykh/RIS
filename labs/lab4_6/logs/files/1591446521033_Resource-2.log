@@ -1,0 +1,46 @@
+
+2020-06-06T12:28:41.046Z: Running 1 resource on http://localhost:8002
+2020-06-06T12:28:41.260Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:28:41.212Z
+2020-06-06T12:28:43.040Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:43.229Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:28:44.219Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:28:44.210Z
+2020-06-06T12:28:45.041Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:45.213Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:28:47.042Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:47.217Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:28:47.210Z
+2020-06-06T12:28:48.214Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:28:49.042Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:50.217Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:28:50.210Z
+2020-06-06T12:28:51.135Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:52.235Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:28:53.135Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:53.220Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:28:53.214Z
+2020-06-06T12:28:53.224Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:28:55.136Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:56.221Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:28:56.215Z
+2020-06-06T12:28:57.138Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:58.213Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:28:59.139Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:28:59.216Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:28:59.221Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:28:59.215Z
+2020-06-06T12:29:01.139Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:02.224Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:29:02.220Z
+2020-06-06T12:29:03.139Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:03.217Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:29:05.141Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:05.225Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:29:05.220Z
+2020-06-06T12:29:06.214Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:29:07.141Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:08.217Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:29:08.226Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:29:08.221Z
+2020-06-06T12:29:09.141Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:11.142Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:11.227Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:29:11.221Z
+2020-06-06T12:29:13.143Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:13.216Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:29:13.223Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:29:14.226Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:29:14.221Z
+2020-06-06T12:29:15.143Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:17.143Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:29:17.228Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:29:17.222Z
+2020-06-06T12:29:18.215Z: Retrieving resource-2's data, entity length: 4

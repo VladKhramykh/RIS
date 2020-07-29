@@ -1,0 +1,70 @@
+{
+  "name": "resource-1",
+  "status": "closed",
+  "latestData": [
+    {
+      "field1": 43,
+      "field2": "32"
+    },
+    {
+      "field1": 46,
+      "field2": "17"
+    },
+    {
+      "field1": 35,
+      "field2": "4"
+    },
+    {
+      "field1": 31,
+      "field2": "67"
+    },
+    {
+      "field1": 6,
+      "field2": "80"
+    },
+    {
+      "field1": 22,
+      "field2": "49"
+    },
+    {
+      "field1": 47,
+      "field2": "42"
+    },
+    {
+      "field1": 80,
+      "field2": "53"
+    },
+    {
+      "field1": 39,
+      "field2": "16"
+    },
+    {
+      "field1": 73,
+      "field2": "70"
+    },
+    {
+      "field1": 90,
+      "field2": "91"
+    },
+    {
+      "field1": 83,
+      "field2": "88"
+    },
+    {
+      "field1": 45,
+      "field2": "2"
+    },
+    {
+      "field1": 92,
+      "field2": "72"
+    },
+    {
+      "field1": 23,
+      "field2": "48"
+    },
+    {
+      "field1": 28,
+      "field2": "62"
+    }
+  ]
+}

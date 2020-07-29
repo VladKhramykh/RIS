@@ -1,0 +1,39 @@
+
+2020-06-06T12:30:19.001Z: Running 1 resource on http://localhost:8002
+2020-06-06T12:30:19.258Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:30:19.206Z
+2020-06-06T12:30:20.995Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:21.228Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:30:22.214Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:30:22.206Z
+2020-06-06T12:30:22.998Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:23.212Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:30:24.998Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:25.214Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:30:25.207Z
+2020-06-06T12:30:26.209Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:30:26.998Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:28.217Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:30:28.207Z
+2020-06-06T12:30:28.999Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:30.225Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:30:30.999Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:31.225Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:30:31.228Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:30:31.209Z
+2020-06-06T12:30:33.000Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:35.001Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:35.025Z: Error with server (Server not found)
+2020-06-06T12:30:36.023Z: Error with server (Server not found)
+2020-06-06T12:30:37.018Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:37.066Z: Error with server (Server not found)
+2020-06-06T12:30:38.027Z: Error with server (Server not found)
+2020-06-06T12:30:39.019Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:39.102Z: Error with server (Server not found)
+2020-06-06T12:30:40.067Z: Error with server (Server not found)
+2020-06-06T12:30:41.019Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:41.068Z: Error with server (Server not found)
+2020-06-06T12:30:42.067Z: Error with server (Server not found)
+2020-06-06T12:30:43.020Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:43.071Z: Error with server (Server not found)
+2020-06-06T12:30:44.069Z: Error with server (Server not found)
+2020-06-06T12:30:45.020Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:45.072Z: Error with server (Server not found)
+2020-06-06T12:30:46.070Z: Error with server (Server not found)
+2020-06-06T12:30:47.060Z: Committing new data for G:\LEARN\6 сем\РИС\labs\lab4_6\remote-sources/resource2/state.json
+2020-06-06T12:30:47.098Z: Error with server (Server not found)

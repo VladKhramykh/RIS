@@ -1,0 +1,6 @@
+
+2020-06-06T12:29:44.730Z: Data center start
+2020-06-06T12:29:49.754Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:29:49.755Z: Collected data from resource-2
+2020-06-06T12:29:54.744Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:29:54.745Z: Collected data from resource-2

@@ -1,0 +1,18 @@
+
+2020-06-06T12:28:38.199Z: Data center start
+2020-06-06T12:28:43.232Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:28:43.233Z: Collected data from resource-2
+2020-06-06T12:28:48.216Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:28:48.217Z: Collected data from resource-2
+2020-06-06T12:28:53.226Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:28:53.229Z: Collected data from resource-2
+2020-06-06T12:28:58.218Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:28:58.223Z: Collected data from resource-2
+2020-06-06T12:29:03.219Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:29:03.219Z: Collected data from resource-2
+2020-06-06T12:29:08.218Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:29:08.219Z: Collected data from resource-2
+2020-06-06T12:29:13.225Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:29:13.227Z: Collected data from resource-2
+2020-06-06T12:29:18.220Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:29:18.224Z: Collected data from resource-2
